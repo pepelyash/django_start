@@ -1,6 +1,7 @@
 /.venv
 /.vscode
 /settings.py
+/web_project/web_project/settings.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
